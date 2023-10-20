@@ -8265,7 +8265,7 @@
     sources = {
       all = {
         url = "https://dl.google.com/android/repository/sys-img/google_apis_playstore/x86_64-34_r06.zip";
-        sha1 = "dd4098e790eea85933b5eaaa119538c4b8c80976";
+        sha1 = "4704341d617f13997d52b74da8c1641a2b796681";
       };
     };
     displayName = "Google Play Intel x86_64 Atom System Image";
